@@ -29,7 +29,7 @@ export default async function Page() {
           Developer, guitarist, and creator.
         </p>
         <p className={'mb-6 pt-10 text-lg font-medium tracking-tight'}>
-          👋 Hi, I'm Hamster1963.
+          👋 Hi, I'm doury.
           <br />
           Love to write code and write articles.
           <br />
